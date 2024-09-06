@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshita Golakiya
+- 👋 Hi, I’m Akshita Golakiya!
 - 👀 I’m interested in Embedded systems, computer networks, web programming but i also have an experience of 6 years in finance corporate world.
 - 🌱 I’m pursuing master's degree in electrical engineering from SDSU.
 - 💞️ I’m looking to collaborate on projects in embedded systems and database & web programming. 
